@@ -10,4 +10,5 @@
    - **Adapter Pattern**:The adapter design pattern is one of the structural design patterns and it’s used so that two unrelated interfaces can work together. 
    - **Composite Pattern**: When we need to create a structure in a way that the objects in the structure have to be treated the same way, we can apply the composite design pattern.
    - **Proxy Design pattern**: It is used when we want controlled access to a functionality.
+   - **Flyweight Pattern**: Flyweight design pattern is used when we need to create a lot of Objects of a class.flyweight design pattern can be applied to reduce the load on memory by sharing objects. 
    
