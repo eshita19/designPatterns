@@ -12,5 +12,6 @@
    - **Proxy Design pattern**: It is used when we want controlled access to a functionality.
    - **Flyweight Pattern**: Flyweight design pattern is used when we need to create a lot of Objects of a class.flyweight design pattern can be applied to reduce the load on memory by sharing objects. 
    - **Facade Pattern**: Provide a unified interface to a set of interfaces in a subsystem. Facade Pattern defines a higher-level interface that makes the subsystem easier to use.
-   
+   - **Bridge Pattern**:  When we have interface hierarchies in both interfaces as well as implementations, then bridge design pattern is used to decouple the interfaces from implementation and hiding the implementation details from the client programs. 
+   - **Decorator Pattern**: The decorator design pattern is used to modify the functionality of an object at runtime. It is like linked list:)
    
