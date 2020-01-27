@@ -15,3 +15,8 @@
    - **Bridge Pattern**:  When we have interface hierarchies in both interfaces as well as implementations, then bridge design pattern is used to decouple the interfaces from implementation and hiding the implementation details from the client programs. 
    - **Decorator Pattern**: The decorator design pattern is used to modify the functionality of an object at runtime. It is like linked list:)
    
+## Behavioural Deisgn Patterns
+  - **Template Method Pattern**:Template method defines the steps to execute an algorithm and it can provide a default implementation that might be common for all or some of the subclasses.
+  - **Chain of Responsibility Pattern**: Chain of responsibility pattern is used to achieve loose coupling in software design where a request from the client is passed to a chain of objects to process them. Then the object in the chain will decide themselves who will be processing the request and whether the request is required to be sent to the next object in the chain or not.
+ - **Observer Pattern**: In observer pattern, the object that watch on the state of another object are called Observer and the object that is being watched is called Subject. (Listener of an event)
+ - **Strategy Pattern**: Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime.
