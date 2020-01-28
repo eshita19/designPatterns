@@ -22,3 +22,4 @@
  - **Observer Pattern**: In observer pattern, the object that watch on the state of another object are called Observer and the object that is being watched is called Subject. (Listener of an event)
  - **Strategy Pattern**: Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime.
  - **Command Pattern**: is used to implement lose coupling in a request-response model. In command pattern, the request is send to the invoker and invoker pass it to the encapsulated command object. Command object passes the request to the appropriate method of Receiver to perform the specific action.
+ - **Visitor Pattern**: Visitor pattern is used when we have to perform an operation on a group of similar kind of Objects. With the help of visitor pattern, we can move the operational logic from the objects to another class. Ex: Shopping cart different items price calculation.
